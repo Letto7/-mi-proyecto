@@ -1,0 +1,53 @@
+body{
+    background-image: url(Imagenes/bg-palm.jpg);
+    width: auto;
+    height: auto;
+}
+
+
+.contenedor {
+    text-align: center;
+    color: #000;
+}
+
+.profile {
+    margin-bottom: 20px;
+}
+
+.avatar {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.links{
+    list-style: none;
+    padding: 0;
+}
+
+.links li {
+    margin: 10px 0;
+}
+
+.links a {
+    text-decoration: none;
+    color: #000;
+    background:white;
+    padding: 10px 20px;
+    border-radius: 25px;
+    display: inline-block;
+    width: 200px;
+}
+.redes {
+    margin-top: 20px;
+}
+
+.redes a {
+    margin: 0 10px;
+}
+
+.redes img {
+    width: 24px;
+    height: 24px;
+}
+
